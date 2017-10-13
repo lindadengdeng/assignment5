@@ -1,0 +1,401 @@
+xpathparser:0,xpathparser:1,xpathparser:2,xpathparser:4,xpathparser:5,xpathparser:6,xpathparser:7,xpathparser:8,xpathparser:9
+0,CW,toilet,Junction of Shing Wong Street and Wah Hing Lane,N/A,N/A,N/A,N/A,"22.283733,114.151492",0
+1,E,toilet,Opposite to New World Bus Depot Sheung On Street,N/A,N/A,N/A,N/A,"22.27220,114.24361",0
+2,E,toilet,No. 28 Tung Hei Road,N/A,N/A,N/A,N/A,"22.281325,114.230214",0
+3,Wch,toilet,Hing Fat Street near the Entrance of Victoria Park,N/A,N/A,N/A,N/A,"22.282368,114.191001",0
+4,Wch,toilet,No. 15 Wing Hing Street,N/A,N/A,N/A,N/A,"22.285273,114.191676",0
+5,E,toilet,At side of No. 3 Oil Street,N/A,N/A,N/A,N/A,"22.288196,114.193093",0
+6,E,toilet,Ning Foo Street near Bus Terminus,N/A,N/A,N/A,N/A,"22.264876,114.237199",0
+7,E,toilet,Junction of Kam Wa Street and Wang Wa Street,N/A,N/A,N/A,N/A,"22.277604,114.230554",0
+8,E,toilet,Junction of A Kung Ngam Village Road and Tung Wong Road,N/A,N/A,N/A,N/A,"22.282208,114.232496",0
+9,E,toilet,No. 81 Nam On Street,N/A,N/A,N/A,N/A,"22.279074,114.226717",0
+10,E,toilet,Junction of Hoi Ning Street and Hing Man Street,N/A,N/A,N/A,N/A,"22.281421,114.223226",0
+11,E,toilet,No. 38 Quarry Bay Street,N/A,N/A,N/A,N/A,"22.283692,114.211811",0
+12,E,toilet,Junction of Pak Fuk Road and Healthy Street Central,N/A,N/A,N/A,N/A,"22.291136,114.205547",0
+13,E,toilet,Java Road outside North Point Vehicular Ferry Pier,N/A,N/A,N/A,N/A,"22.293075,114.203447",0
+14,E,toilet,Junction of Tong Shui Road and Chun Yeung Street,N/A,N/A,N/A,N/A,"22.29197,114.19864",0
+15,Wch,toilet,"Lily Street, Lin Fa Kung, Tai Hang",N/A,N/A,N/A,N/A,"22.2792,114.1928",0
+16,Wch,toilet,Bowen Road near Wan Chai Gap Road,N/A,N/A,N/A,N/A,"22.270340,114.17154",0
+17,Wch,toilet,Junction of Sing Woo Road and Yik Yam Street,N/A,N/A,N/A,N/A,"22.269382,114.18519",0
+18,Wch,toilet,Junction of Tai Hang Road and Lai Tak Tsuen Road,N/A,N/A,N/A,N/A,"22.276699,114.19488",0
+19,Wch,toilet,No. 258 Queen???s Road East,N/A,N/A,N/A,N/A,"22.275004,114.17383",0
+20,Wch,toilet,Junction of Warren Street and Shepherd Street,N/A,N/A,N/A,N/A,"22.278300,114.19175",0
+21,Wch,toilet,Tung Lo Wan Drive (At side of Bus Terminus),N/A,N/A,N/A,N/A,"22.278955,114.18993",0
+22,Wch,toilet,Opposite to 95 Wong Nai Chung Road,N/A,N/A,N/A,N/A,"22.274314,114.18326",0
+23,Wch,toilet,Morrison Hill Road near Sports Road,N/A,N/A,N/A,N/A,"22.274882,114.17999",0
+24,Wch,toilet,Junction of Canal Road and Lockhart Road (next to Wan Chai Fire Station),N/A,N/A,N/A,N/A,"22.280177,114.18091",0
+25,Wch,toilet,Junction of Cross Lane and Bullock Lane,N/A,N/A,N/A,N/A,"22.276349,114.17602",0
+26,Wch,toilet,"G/F, Southorn Centre, 130 Hennessy Road",N/A,N/A,N/A,N/A,"22.277268,114.17266",0
+27,Wch,toilet,Junction of Kat On Street and Kennedy Street,N/A,N/A,N/A,N/A,"22.273225,114.174467",0
+28,Wch,toilet,Expo Drive East (next to Golden Bauhinia Square),N/A,N/A,N/A,N/A,"22.284493,114.17450",0
+29,Wch,cemetery,Wong Nai Chung Road,N/A,N/A,N/A,From 1/4 to 30/9 (07:00 - 19:00 hrs)\nFrom 1/10 to 31/3 (07:00 - 18:00 hrs),"22.27158,114.17949",0
+30,Wch,cemetery,"Broadwood Road, So Kon Po, HK",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.270256,114.188256",0
+31,WTS,cemetery,"Po Kong Village Road, Wong Tai Sin, Kowloon",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.348953,114.207919",0
+32,S,cemetery,"Stanley, HK (Near the Hong Kong Federation of Youth Groups Stanley Outdoor Activities Centre)",N/A,N/A,N/A,Not Available,"22.210531,114.214106",0
+33,N,cemetery,"Ming Yin Road, Fanling, NT",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.480103,114.136461",0
+34,Is,cemetery,"Cheung Chau Peak Road West, Cheung Chau, NT",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.199753,114.023369",0
+35,Is,cemetery,"Tai O Cemetery, Lantau Island, N.T.",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.258058,113.867467",0
+36,Is,cemetery,"Mui Wo Lai Chi Yuen Cemetery, Lantau Island, N.T.",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.254392,113.998978",0
+37,N,cemetery,"Lo Wu Station Road, Lo Wu, NT",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.530675,114.119833",0
+38,E,crematorium,"Cape Collinson Road, Chai Wan, HK",25561377,N/A,21477514,0900 - 1800 hrs,"22.258253,114.230361",0
+39,WTS,crematorium,"199 Po Kong Village Road, Wong Tai Sin, Kowloon",23259996,N/A,23545994,0900 - 1800 hrs,"22.34572,114.20784",0
+40,ST,crematorium,"Lower Shing Mun Road, Tai Wai, Sha Tin, N.T.",26995090,N/A,26982415,0830 - 1800 hrs,"22.374008,114.167592",0
+41,KwT,crematorium,"11-13 Wing Hau Street, Kwai Chung, NT",26144390,N/A,24396435,0830 - 1800 hrs,"22.356956,114.117836",0
+42,N,crematorium,"Kiu Tau Road, Fanling, NT",26755200,N/A,29473076,0830 - 1800 hrs,"22.480881,114.147597",0
+43,Is,crematorium,"Cheung Chau Peak Road West, Sai Wan, Cheung Chau",29815177,N/A,29811607,08:30 - 17:30 hrs,"22.199092,114.023003",0
+44,Wch,cc_office,"1J Wong Nai Chung Road , Happy Valley, Hong Kong (Near Hong Kong Cemetery)",25704318,25725286,25911879,Mondays to Fridays:\n0900 - 1300 hrs\n1400 - 1700 hrs\n \nSaturdays:\n0900 - 1200 hrs\n \nSundays and Public Holidays:\nClose,"22.27183,114.17994",0
+45,KC,cc_office,"Upper Ground Floor, 6 Cheong Hang Road, Hung Hum, Kowloon",23655321,23645364,21764963,Mondays to Fridays:\n0900 - 1300 hrs\n1400 - 1700 hrs\n \nSaturdays:\n0900 - 1200 hrs\n \nSundays and Public Holidays:\nClose,"22.30641,114.18234",0
+46,Wch,cc_office,"18/F, Wu Chung House, 213 Queenand#039;s Road East, Wan Chai, Hong Kong",29618842,N/A,25153317,Mondays to Fridays:\n0900 - 1230 hrs\n1400 - 1630 hrs\n \nSaturdays:\n0900 - 1230 hrs\n \nSundays and Public Holidays:\nClose,"22.274398,114.172736",0
+47,SSP,cc_office,"1/F, Cheung Sha Wan Government Offices, 303 Cheung Sha Wan Road, Sham Shui Po, Kowloon",21507502,N/A,27656402,Mondays to Fridays:\n0900 - 1230 hrs\n1400 - 1630 hrs\n \nSaturdays:\n0900 - 1230 hrs\n \nSundays and Public Holidays:\nClose,"22.33186,114.16034",0
+48,E,bath,"No. 28, Tung Hei Road",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.281325,114.230214",0
+49,CW,bath,Junction of Shing Wong Street and Wa Hing Lane,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.283733,114.151492",0
+50,CW,bath,Junction of Gutzlaff Street and Chuk Hing Lane,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.28295,114.153897",0
+51,CW,bath,Junction of Pound Lane and Tai Ping Shan Street,N/A,N/A,N/A,8 a.m. to 10 a.m.\n4:30 p.m. to 8:30 p.m.,"22.284964,114.147675",0
+52,CW,bath,Junction of Water Street and Pok Fu Lam Road,N/A,N/A,N/A,8 a.m. to 10 a.m.\n4:30 p.m. to 8:30 p.m.,"22.285269,114.139194",0
+53,CW,bath,Junction of Second Street and Western Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.286163,114.140798",0
+54,Wch,bath,Junction of Kat On Street and Kennedy Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 10:00 p.m.,"22.273225,114.174467",0
+55,YT,bath,"No. 1, Market Street",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.309494,114.170361",0
+56,YT,bath,"No. 107, Parkes Street",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.306467,114.170625",0
+57,MK,bath,"No. 55, Anchor Street",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.32001,114.16413",0
+58,SSP,bath,557 Yee Kuk Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.333639,114.152656",0
+59,SSP,bath,Junction of Tai Nan Street and Boundary Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.32650,114.16404",0
+60,SSP,bath,193 Nam Cheong Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.33120,114.16458",0
+61,KT,bath,"Side of No.90, Cha Kwo Ling Main Street",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.300746,114.228289",0
+62,KT,bath,"No.1, Ting Fu Street, Ngau Tau Kok",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.317589,114.216483",0
+63,KT,bath,"Entrance of Ma Wan Village, Lei Yue Mun",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.287944,114.237475",0
+64,KC,bath,"No. 180, Kowloon City Road",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.321422,114.190714",0
+65,Is,bath,"Peak Road, Cheung Chau",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.207444,114.030256",0
+66,Is,bath,"Wing On Side Street, Peng Chau",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:00 p.m. to 8:00 p.m.,"22.284556,114.038472",0
+67,TW,bath,Ma Wan Fisherman Village,N/A,N/A,N/A,24 hours,"22.349617,114.055697",0
+68,YL,bath,"Sai Ching Street (Near Manhattan Plaza), Yuen Long",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.44185,114.028778",0
+69,TP,bath,"Pak Shing Street, Tai Po",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.44935,114.16310",0
+70,ST,bath,"No. 31, Shing Ho Road, Tai Wai",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.376046,114.179425",0
+71,SK,bath,Yi Chun Street,N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.380219,114.271831",0
+72,N,bath,"Junction of San Shing Avenue and Fu Hing Street, Sheung Shui",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.50474,114.12941",0
+73,N,bath,"Luen Cheong Street, Fanling",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.499456,114.143247",0
+74,N,bath,"Che Ping Street, Sha Tau Kok",N/A,N/A,N/A,7 a.m. to 9 a.m.\n4:30 p.m. to 8:30 p.m.,"22.545281,114.224803",0
+75,CW,hawker_fixpitch,Li Yuen Street East,N/A,N/A,N/A,N/A,"22.282827,114.156409",0
+76,CW,hawker_fixpitch,Li Yuen Street West,N/A,N/A,N/A,N/A,"22.283123,114.156197",0
+77,CW,hawker_fixpitch,Graham Street,N/A,N/A,N/A,N/A,"22.283066,114.153568",0
+78,MK,hawker_fixpitch,Tung Choi Street,N/A,N/A,N/A,N/A,"22.316323,114.171167",0
+79,MK,hawker_fixpitch,Canton Road,N/A,N/A,N/A,N/A,"22.31753,114.16751",0
+80,MK,hawker_fixpitch,Nelson Street,N/A,N/A,N/A,N/A,"22.31866,114.17072",0
+81,MK,hawker_fixpitch,Fa Yuen Street,N/A,N/A,N/A,N/A,"22.32277,114.17043",0
+82,SSP,hawker_fixpitch,Ki Lung Street,N/A,N/A,N/A,N/A,"22.32788,114.16326",0
+83,SSP,hawker_fixpitch,Tai Nan Street,N/A,N/A,N/A,N/A,"22.328675,114.161391",0
+84,SSP,hawker_fixpitch,Pei Ho Street,N/A,N/A,N/A,N/A,"22.331523,114.163749",0
+85,SSP,hawker_fixpitch,Fuk Wing Street,N/A,N/A,N/A,N/A,"22.331752,114.163046",0
+86,SSP,hawker_fixpitch,Fat Tseung Street,N/A,N/A,N/A,N/A,"22.338112,114.157373",0
+87,SSP,hawker_fixpitch,Cheung Fat Street,N/A,N/A,N/A,N/A,"22.339378,114.156986",0
+88,S,hawker_bazaars,"Stanley Market Road, Stanley, HK",N/A,N/A,N/A,N/A,"22.218731,114.212353",0
+89,KT,hawker_bazaars,"3 Lai Yip Street, Kwun Tong, Kowloon",N/A,N/A,N/A,N/A,"22.313797,114.216697",0
+90,KT,hawker_bazaars,"38 Tung Yan Street, Kwun Tong",N/A,N/A,N/A,N/A,"22.313471,114.225996",0
+91,YT,hawker_bazaars,"Kansu Street, Yau Ma Tei, Kowloon",N/A,N/A,N/A,N/A,"22.309069,114.169061",0
+92,YT,hawker_bazaars,"Kansu Street, Yau Ma Tei, Kowloon",N/A,N/A,N/A,N/A,"22.309142,114.169489",0
+93,YT,hawker_bazaars,"30 Haiphong Road, Tsim Sha Tsui, Kowloon",N/A,N/A,N/A,N/A,"22.297628,114.170014",0
+94,YT,hawker_bazaars,"Reclamation Street, Yau Ma Tei, Kowloon",N/A,N/A,N/A,N/A,"22.307272,114.169119",0
+95,YT,hawker_bazaars,"29-39 Woosung Street, Yau Ma Tei, Kowloon",N/A,N/A,N/A,N/A,"22.307714,114.170528",0
+96,SSP,hawker_bazaars,"373 Lai Chi Kok Road, Kowloon",N/A,N/A,N/A,N/A,"22.329839,114.1585",0
+97,YL,hawker_bazaars,"Kam Tin Main Road, Kam Tin",N/A,N/A,N/A,N/A,"22.440325,114.065178",0
+98,TW,hawker_bazaars,"Hau Tei Square, Tsuen Wan, NT",N/A,N/A,N/A,N/A,"22.371025,114.115897",0
+99,TW,hawker_bazaars,"Luen Yan Street, Tsuen Wan, NT",N/A,N/A,N/A,N/A,"22.36745,114.117783",0
+100,TM,hawker_bazaars,"62 Lam Tei Main Street, Tuen Mun, NT",N/A,N/A,N/A,N/A,"22.418785,113.984037",0
+101,KwT,hawker_bazaars,"28 Kwai Wing Road, Kwai Chung, NT",N/A,N/A,N/A,N/A,"22.366758,114.13425",0
+102,Is,toilet,"Mui Wo Ferry Pier Road, Lantau",N/A,N/A,N/A,N/A,"22.265681,114.000836",0
+103,CW,refuse,At side of Lan Kwai Fong Sitting-out Area,N/A,N/A,N/A,24 hours,"22.280871,114.155687",0
+104,CW,refuse,Junction of Man Kat Street andamp; Connaught Rd. Central,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.286978,114.154244",0
+105,CW,refuse,38-42 Gage Street,N/A,N/A,N/A,24 hours,"22.283611,114.153033",0
+106,CW,refuse,Junction of Robinson Road andamp; Castle Road,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.281992,114.147717",0
+107,CW,refuse,Junction of Arbuthnot Road andamp; Caine Road,N/A,N/A,N/A,6:30 am - 3:30 pm,"22.279303,114.154469",0
+108,CW,refuse,Junction of Kennedy Rd. andamp; Underneath of Cotton Tree Drive flyover,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.276775,114.1571",0
+109,CW,refuse,Queensway Plaza,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.278553,114.164503",0
+110,CW,refuse,"Peak Galleria, Bus Terminus",N/A,N/A,N/A,8:00 am - 2:00 pm,"22.270072,114.150444",0
+111,CW,refuse,"G/F, No. 21-23 Lok Ku Road, Sheung Wan",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.285642,114.149228",0
+112,CW,refuse,"No.8 in Ku Lane, Sheung Wan",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.286581,114.145931",0
+113,CW,refuse,"Junction of Centre Street andamp; First Street, Sheung Wan",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.286325,114.142047",0
+114,CW,refuse,"Junction of Third Street andamp; Eastern Street, Sheung Wan",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.28592,114.143486",0
+115,CW,refuse,"Basement Smithfield Municipal Services Building,\n12K Smithfield Road, Kennedy Town",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.28193,114.12857",0
+116,CW,refuse,"No. 43-47 Centre Street, Sai Ying Pun",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.285911,114.142436",0
+117,Wch,refuse,Junction of Paterson Street andamp; Gloucester Road,N/A,N/A,N/A,6:30 am - 3:30 pm,"22.282717,114.184831",0
+118,CW,refuse,"G/F, Sheung Wan Municipal Services Building, 345, Queenand#039;s Road Central, Sheung Wan",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.286164,114.149742",0
+119,Wch,refuse,Opposite to 250 Gloucester Road,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.280975,114.180989",0
+120,CW,refuse,"Shek Tong Tsui Municipal Services Building, No. 470 Queenand#039;s Road West, Sai Wan",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.285583,114.136108",0
+121,Wch,refuse,224 Lockhart Road,N/A,N/A,N/A,6:30 am - 3:30 pm,"22.278147,114.175447",0
+122,Wch,refuse,Junction of Luard Road andamp; Johnston Road,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.276819,114.171633",0
+123,Wch,refuse,Junction of Star Street and Sun Street,N/A,N/A,N/A,6:30 am - 3:00 pm,"22.276269,114.168297",0
+124,Wch,refuse,Opposite to 7 Shiu Fai Terrace,N/A,N/A,N/A,6:30 am - 3:00 pm,"22.272694,114.1754",0
+125,Wch,refuse,Junction of Cross Lane andamp; Bullock Lane,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.276333,114.176058",0
+126,Wch,refuse,Junction of Sing Woo Road andamp; Yik Yam Street,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.269342,114.185169",0
+127,Wch,refuse,No. 15 Wing Hing Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.285461,114.191992",0
+128,E,refuse,No. 3 Oil Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.288144,114.192914",0
+129,E,refuse,No. 99 Java Road (G/F of Java Road Market),N/A,N/A,N/A,7:00 am - 00:00 am,"22.292306,114.199358",0
+130,E,refuse,No. 63 Tanner Road,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.29115,114.203008",0
+131,E,refuse,Marble Road opposite to Kingand#039;s Road Playground,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.292650,114.203736",0
+132,E,refuse,No. 41 Mansion Street,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.289894,114.208617",0
+133,E,refuse,No. 38 Quarry Bay Street,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.283708,114.211883",0
+134,E,refuse,Junction of Hing Man Street andamp; Oi Yee Street,N/A,N/A,N/A,7:00 am - 00:00 am,"22.281772,114.223275",0
+135,E,refuse,No. 2A Sai Wan Ho Street,N/A,N/A,N/A,7:00 am - 00:00 am,"22.279819,114.225147",0
+136,Is,refuse,"Ngan Shu Street, Mui Wo, Lantau Island",N/A,N/A,N/A,7:45 am - 4:00 pm,"22.266217,113.994569",0
+137,Is,refuse,"Cheung Tung Road, Tung Chung, Lantau Island",N/A,N/A,N/A,6:30 am - 3:30 pm,"22.288883,113.945961",0
+138,E,refuse,Junction of Kam Wa Street andamp; Wang Wa Street,N/A,N/A,N/A,7:00 am - 00:00 am,"22.277578,114.230572",0
+139,E,refuse,No. 30 Cheung Lee Street,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.265875,114.235206",0
+140,E,refuse,"At side of Chai Wan Fire Station, Sheung On Street",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.266944,114.243617",0
+141,E,refuse,At side of No. 28 Tung Hei Road,N/A,N/A,N/A,7:00 am - 00:00 am,"22.280678,114.230311",0
+142,S,refuse,"No.19 Tsung Man Street, Aberdeen",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.249817,114.155397",0
+143,S,refuse,"Next to No.9 Tin Wan Close, Tin Wan",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.250519,114.149119",0
+144,S,refuse,"Next to No.33 Beach Road, Repulse Bay",N/A,N/A,N/A,7:00 am - 4:00 pm,"22.237969,114.196003",0
+145,S,refuse,Next to Carpark opposite No.20 Stanley Beach Road,N/A,N/A,N/A,7:00 am - 3:30 pm,"22.220853,114.213781",0
+146,S,refuse,Next to Shek O Main Beach Carpark,N/A,N/A,N/A,7:00 am - 3:30 pm,"22.228994,114.249942",0
+147,S,refuse,"Apleichau Municipal Services Building, No.8 Hung Shing Street, Apleichau",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.244489,114.155406",0
+148,S,refuse,"Opposite No.4 Lee Lok Street, Apleichau",N/A,N/A,N/A,7:00 am - 4:00 pm,"22.2372,114.153139",0
+149,YT,refuse,"No. 1, Market Street",N/A,N/A,N/A,7:00 am - 3:30 pm,"22.309467,114.170489",0
+150,YT,refuse,Opposite to No. 47 Man Cheong Street,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.308256,114.165442",0
+151,YT,refuse,No. 107 Parkes Street,N/A,N/A,N/A,4:30 am - 11:30 pm,"22.306422,114.170653",0
+152,YT,refuse,No. 17 Bowring Street,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.304553,114.168469",0
+153,YT,refuse,No. 28 Kimberley Street,N/A,N/A,N/A,4:30 am - 11:30 pm,"22.300464,114.173836",0
+154,YT,refuse,Opposite to No. 3 Minden Row Street,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.296525,114.173828",0
+155,YT,refuse,"Auto Plaza, Mody Square, Tsim Sha Tsui East",N/A,N/A,N/A,6:30 am - 17:30 pm,"22.298611,114.176622",0
+156,MK,refuse,193 Portland Street,N/A,N/A,N/A,24 hours,"22.316989,114.168983",0
+157,MK,refuse,62 Bedford Road,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.323083,114.163994",0
+158,MK,refuse,188 Sai Yee Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.325108,114.170681",0
+159,MK,refuse,Junction of Canton Road andamp; Nelson Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.317872,114.167567",0
+160,MK,refuse,Junction of Cheung Wong Road andamp; Shum Chun Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.319247,114.166422",0
+161,MK,refuse,661B Shanghai Street,N/A,N/A,N/A,24 hours,"22.320744,114.167419",0
+162,MK,refuse,Opposite to 3-13 Nullah Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.323553,114.169392",0
+163,MK,refuse,"G/F, 123 Fa Yuen Street",N/A,N/A,N/A,6:30 am - 3:30 pm,"22.320728,114.170547",0
+164,MK,refuse,Junction of Dundas Street andamp; Tung Choi Street,N/A,N/A,N/A,24 hours,"22.315417,114.171333",0
+165,MK,refuse,Opposite to 47 Yu Chau Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.326093,114.166593",0
+166,MK,refuse,55 Anchor Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.319958,114.164189",0
+167,SSP,refuse,Junction of Cassia Road andamp; Begonia Road,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.332033,114.173186",0
+168,SSP,refuse,48 Fa Po Street,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.334031,114.176525",0
+169,SSP,refuse,Junction of Tai Nan Street andamp; Boundary Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.326506,114.163917",0
+170,SSP,refuse,333 Kilung Street,N/A,N/A,N/A,24 hours,"22.329061,114.161003",0
+171,SSP,refuse,59-63 Un Chau Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.332014,114.163322",0
+172,SSP,refuse,360 Shun Ning Road,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.340231,114.155178",0
+173,SSP,refuse,113 King Lam Street,N/A,N/A,N/A,6:30 am - 3:30 pm,"22.340022,114.149111",0
+174,SSP,refuse,24 Cheung Shun Street,N/A,N/A,N/A,6:30 am - 3:30 pm,"22.336058,114.146103",0
+175,SSP,refuse,"Lai Wan Market, Mei Foo Sun Chuen",N/A,N/A,N/A,6:30 am - 11:00 pm,"22.337475,114.138044",0
+176,SSP,refuse,152A Yee Kuk Street,N/A,N/A,N/A,6:30 am - 11:00 pm,"22.327889,114.160694",0
+177,KC,refuse,"No. 3, Kowloon City Road",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.317053,114.188336",0
+178,KC,refuse,Junction of Gillies Avenue South andamp; Station Lane,N/A,N/A,N/A,7:00 am - 3:30 pm,"22.308022,114.185386",0
+179,KC,refuse,Junction of On Ching Road andamp; Cheong Tung Road,N/A,N/A,N/A,08:30 - 17:30 hrs,"22.305431,114.182436",0
+180,KC,refuse,"No.65, Baker Street",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.307117,114.183931",0
+181,KC,refuse,"No. 12A, Hok Yuen Street",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.310775,114.187161",0
+182,KC,refuse,"18 Sung On Street, Peninsula Square",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.311461,114.189831",0
+183,KC,refuse,"Cheung Ning Street, at side of To Kwa Wan Recreation Ground",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.318469,114.189947",0
+184,KC,refuse,Kwei Chow Street opposite to Vehicle Examination Centre,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.316456,114.192472",0
+185,KC,refuse,Junction of Shek Ku Lung Road andamp; Carpenter Road,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.330444,114.193492",0
+186,KC,refuse,"Tung Tsing Road, at side of Kowloon Walled City Park",N/A,N/A,N/A,08:30 - 17:30 hrs,"22.331617,114.191822",0
+187,KC,refuse,"No. 30-32, Lung Kong Road",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.329831,114.190589",0
+188,KC,refuse,Junction of Peace Avenue andamp; liberty Avenue,N/A,N/A,N/A,6:30 am - 11:30 pm,"22.318586,114.173972",0
+189,KC,refuse,"Man Wan Road, at side of Yu Chun Keung Memorial College",N/A,N/A,N/A,08:30 - 17:30 hrs,"22.318397,114.178164",0
+190,KC,refuse,Hau Wong Road (Kowloon City Municipal Service Building),N/A,N/A,N/A,6:30 am - 11:30 pm,"22.32955,114.189017",0
+191,KC,refuse,"Baptist University Road, opposite to Baptist University Block 6",N/A,N/A,N/A,08:30 - 17:30 hrs,"22.336406,114.183242",0
+192,KC,refuse,"At side of No.63, Broadcast Drive, Peninsula Heights",N/A,N/A,N/A,08:30 - 17:30 hrs,"22.343431,114.182467",0
+193,KC,refuse,Ma Tau Kok Road,N/A,N/A,N/A,24 hours,"22.321133,114.190811",0
+194,WTS,refuse,"G/F, San Po Kong Plaza, No. 33 Shung Ling Street, San Po Kong",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.334914,114.196094",0
+195,WTS,refuse,"G/F, No. 4-6 Yuk Wah Crescent, Tsz Wah Shan",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.346669,114.201056",0
+196,WTS,refuse,"G/F, Sheung Fung Street Market, Fung Wong Sun Tsuen",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.343908,114.197242",0
+197,WTS,refuse,"G/F, No. 1 Lung Chi Path, Ngau Chi Wan",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.336139,114.20785",0
+198,WTS,refuse,"G/F, at side of No. 1 Ma Chai Hang Road, Wong Tai Sin",N/A,N/A,N/A,7:00 am - 3:30 pm,"22.3425,114.190561",0
+199,WTS,refuse,"At junction of Tung Tai Lane and Tai Tung Street, Wong Tai Sin",N/A,N/A,N/A,7:00 am - 5:00 pm,"22.336619,114.193339",0
+200,KT,refuse,Opposite to No.53-61 Ting On Street Ngau Tau Kok,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.3172,114.216347",0
+201,KT,refuse,At side of No.74 Hong Ning Road,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.316214,114.223597",0
+202,KT,refuse,Kei Yip Lane Kwun Tong,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.308575,114.221722",0
+203,KT,refuse,Opposite to No.16 Yuet Wah Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.314253,114.226897",0
+204,KT,refuse,Junction of Wan Hon Street andamp; Shui Wo Street,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.317586,114.226267",0
+205,KT,refuse,Shung Yan Wai Kwun Tong,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.315942,114.224986",0
+206,KT,refuse,Lei Yue Mun Municipal Services Building Lei Yue Mun,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.292053,114.23865",0
+207,KT,refuse,Junction of Lai Yip Street andamp; Wai Yip Street,N/A,N/A,N/A,7:00 am - 11:00 pm,"22.313533,114.216589",0
+208,KwT,refuse,Ta Chuen Ping Street near Shek Kin Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.366725,114.135825",0
+209,KwT,refuse,At side of No. 28 Cheung Tat Road,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.349783,114.109878",0
+210,KwT,refuse,Kwai Shun Street near Kwai Wo Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.354647,114.123644",0
+211,KwT,refuse,No.14 Wing Kin Road,N/A,N/A,N/A,7:00 am - 4:00 pm,"22.358808,114.119331",0
+212,KwT,refuse,Tai Yuen Street near the Carpark,N/A,N/A,N/A,7:00 am - 3:00 pm,"22.370769,114.136561",0
+213,KwT,refuse,Tai Lin Pai Road near Kung Yip Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.362417,114.133564",0
+214,KwT,refuse,"No. 82 Hing Shing Road, Kwai Chung",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.3601,114.125178",0
+215,TW,refuse,"Heung Che Street (at side of Heung Che Street Market), Tsuen Wan",N/A,N/A,N/A,24 hours,"22.373506,114.111383",0
+216,TW,refuse,"10 Luen Yan Street, Tsuen Wan",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.368028,114.117861",0
+217,TW,refuse,"Tsuen Wan Market Street (Opposite to No. 150), Tsuen Wan",N/A,N/A,N/A,24 hours,"22.370053,114.120706",0
+218,TW,refuse,"Tsuen King Circuit, Tsuen Wan",N/A,N/A,N/A,7:00 am - 9:30 pm,"22.37785,114.111178",0
+219,TW,refuse,"Chak Yan Road at Pennyand#039;s Bay, Tsuen Wan",N/A,N/A,N/A,7:00 am - 4:00 pm,"22.318394,114.039808",0
+220,TM,refuse,"Area 37B, Tsing Hoi Circuit, Tuen Mun",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.385997,113.979322",0
+221,TM,refuse,"Area 4B, Tseng Choi Street, Tuen Mun",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.401681,113.977708",0
+222,TM,refuse,"Area 4C, Tseng Choi Street, Tuen Mun",N/A,N/A,N/A,6:30 am - 3:30 pm,"22.404264,113.978325",0
+223,TM,refuse,"Area 10A, Kai Fat Path, Tuen Mun",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.395267,113.976047",0
+224,TM,refuse,"Area 10B, Tat Yan Square, Tuen Mun",N/A,N/A,N/A,6:30 am - 11:30 pm,"22.396858,113.976667",0
+225,TM,refuse,"Area 12, Hung Cheung Road, Tuen Mun",N/A,N/A,N/A,06:30 - 19:30 hrs,"22.392947,113.969253",0
+226,TM,refuse,"Area 9N, Tsing Yeung Circuit, Tuen Mun",N/A,N/A,N/A,6:30 am - 3:30 pm,"22.398772,113.970019",0
+227,TM,refuse,"Area 9, Kin Lung Street, Tuen Mun",N/A,N/A,N/A,6:30 am - 3:30 pm,"22.3971,113.9694",0
+228,TM,refuse,"Castle Peak Beach, Tuen Mun",N/A,N/A,N/A,8:00 am - 3:30 pm,"22.380289,113.979553",0
+229,YL,refuse,"At side of Chung Sing Path Playground, Yan Lok Square, Yuen Long",N/A,N/A,N/A,24 hours,"22.443528,114.026511",0
+230,YL,refuse,Junction of Yuen Long Tung Tai Street andamp; Yuen Long On Lok Road,N/A,N/A,N/A,24 hours,"22.446519,114.03055",0
+231,YL,refuse,"Fung Kwan Street Near Car Park (Open space), Yuen Long",N/A,N/A,N/A,24 hours,"22.443117,114.034031",0
+232,YL,refuse,"Junction of Tai Tong Road and Hop Yick Road, Yuen Long",N/A,N/A,N/A,24 hours,"22.441192,114.029711",0
+233,YL,refuse,"At side of Tai Kiu Market, Kiu Lok Square, Yuen Long",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.445775,114.026703",0
+234,YL,refuse,"Junction of Kam Cheung Square and Sai Yu Street, Yuen Long",N/A,N/A,N/A,24 hours,"22.441956,114.026389",0
+235,YL,refuse,"Ping Shun Street, Yuen Long",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.447222,114.024444",0
+236,N,refuse,"At side of 16, Fu Hing Street, Sheung Shui",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.504075,114.1283",0
+237,N,refuse,"Opposite to 18, Luen Fat Street, Fanling",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.498064,114.141722",0
+238,N,refuse,"G/F, Yip Cheong Street, On Lok Tsuen, Fanling",N/A,N/A,N/A,7:00 am - 11:00 pm,"22.495517,114.142181",0
+239,TP,refuse,"Dai Kwai St, Tai Po Industrial Estate",N/A,N/A,N/A,7:00 am - 4:00 pm,"22.457286,114.188144",0
+240,TP,refuse,"G/F, Plover Cove Garden, 3 Plover Cove Road, Tai Po",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.449278,114.168558",0
+241,TP,refuse,"G/F., No. 9 Chui Lok Street, Tai Po",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.4538,114.163886",0
+242,TP,refuse,"Kwong Fuk Square, Tai Po",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.447517,114.168219",0
+243,TP,refuse,"Yan Hing St., Tai Po",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.449556,114.164178",0
+244,ST,refuse,Cheung Lek Mei Street,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.398806,114.19185",0
+245,ST,refuse,"Area 5B, Yuen Chau Kok Road",N/A,N/A,N/A,7:30 am - 4:00 pm,"22.381539,114.198422",0
+246,ST,refuse,30 Wo Liu Hang Road,N/A,N/A,N/A,7:00 am - 11:30 pm,"22.398092,114.197522",0
+247,ST,refuse,31 Shing Ho Road,N/A,N/A,N/A,7:00 am - 1:30 am,"22.376103,114.179342",0
+248,ST,refuse,"Chik Fai Street, Tai Wai Market",N/A,N/A,N/A,7:00 am - 11:30 pm,"22.374253,114.177458",0
+249,ST,refuse,"69 Siu Lek Yuen Road, Sha Tin (Castello)",N/A,N/A,N/A,8:00 am - 3:30 pm,"22.382656,114.215678",0
+250,SK,refuse,Yi Chun Street (opposite Sai Kung Market),N/A,N/A,N/A,6:30 am - 11:30 pm,"22.380111,114.271975",0
+251,SK,refuse,Fuk Man Road (at side of Sai Kung Tang Shiu Kin Sports Ground),N/A,N/A,N/A,7:00 a.m. to 10:00 p.m.,"22.382675,114.273211",0
+252,SK,refuse,"At side of Tseung Kwan O Sports Centre, No. 9 Wan Lung Road",N/A,N/A,N/A,7:00 a.m. to 10:00 p.m.,"22.317383,114.259539",0
+253,SK,refuse,"Hong Kin Road, Tui Min Hoi (at side of Kwun Mun Fishermen New Village)",N/A,N/A,N/A,7:00 am - 4:00 pm,"22.376319,114.270575",0
+254,SK,refuse,Clear Water Bay Second Beach Carpark,N/A,N/A,N/A,8:00 am - 4:30 pm,"22.288136,114.286567",0
+255,CW,toilet,Between Gutzlaff Street andamp; Chuk Hing Lane,N/A,N/A,N/A,N/A,"22.282942,114.153906",0
+256,CW,toilet,Junction of Edingburgh Place andamp; Connaught Rd,N/A,N/A,N/A,N/A,"22.282508,114.160156",0
+257,CW,toilet,G/F of Exchange Square near Bus Terminus,N/A,N/A,N/A,N/A,"22.283917,114.157992",0
+258,CW,toilet,"Near L/P 27566, Old Peak Road",N/A,N/A,N/A,N/A,"22.272656,114.151172",0
+259,CW,toilet,G/F of Rumsey Street Multi Storey Car-park,N/A,N/A,N/A,N/A,"22.287411,114.153314",0
+260,CW,toilet,"At side of No.6, Mee Lun Street",N/A,N/A,N/A,N/A,"22.283961,114.152617",0
+261,CW,toilet,Junction of Wellington Street andamp; Queenand#039;s Road C,N/A,N/A,N/A,N/A,"22.285028,114.153053",0
+262,CW,toilet,Junction of Jubilee Street andamp; Queenand#039;s Road Central,N/A,N/A,N/A,N/A,"22.283836,114.154906",0
+263,CW,toilet,"Queenand#039;s Road Central, opposite to Bank Street",N/A,N/A,N/A,N/A,"22.279719,114.159506",0
+264,CW,toilet,Opposite Side of No.16 Ice House Street,N/A,N/A,N/A,N/A,"22.279781,114.157525",0
+265,CW,toilet,Junction of Glenealy andamp; Arbuthnot Road,N/A,N/A,N/A,N/A,"22.279247,114.154703",0
+266,CW,toilet,Junction of Robinson Road andamp; Castle Road,N/A,N/A,N/A,N/A,"22.281458,114.147919",0
+267,CW,toilet,At rear of HK Park Indoor Game Hall,N/A,N/A,N/A,N/A,"22.277253,114.159303",0
+268,CW,toilet,Junction of Kennedy Road andamp; Garden Road,N/A,N/A,N/A,N/A,"22.276828,114.157081",0
+269,CW,toilet,At side of No.48 MacDonnell Road,N/A,N/A,N/A,N/A,"22.275094,114.158458",0
+270,CW,toilet,Junction of May Road andamp; Chatham Path,N/A,N/A,N/A,N/A,"22.273325,114.155975",0
+271,CW,toilet,"Opposite to 23-27,Wing Wo Street",N/A,N/A,N/A,N/A,"22.285308,114.153536",0
+272,CW,toilet,Junction of Hatton Road andamp; Harlech Road,N/A,N/A,N/A,N/A,"22.27325,114.13885",0
+273,CW,toilet,Lower level below Lan Kwan Fong Sitting-out Area,N/A,N/A,N/A,N/A,"22.280911,114.155858",0
+274,CW,toilet,At side of Macau Ferry Bus Terminus,N/A,N/A,N/A,N/A,"22.288169,114.150044",0
+275,CW,toilet,"Central Market, Entrance facing Des Voeux Road Central",N/A,N/A,N/A,N/A,"22.283881,114.155411",0
+276,CW,toilet,Man Yiu Street Near No.7 Pier,N/A,N/A,N/A,N/A,"22.285886,114.160631",0
+277,CW,toilet,P2 Peak Tower,N/A,N/A,N/A,N/A,"22.271344,114.149561",0
+278,CW,toilet,Junction of Man Fai Street andamp; Man Kwong Street,N/A,N/A,N/A,N/A,"22.288017,114.155808",0
+279,CW,toilet,"Ladder Street facing Lower Lascar Row, Western",N/A,N/A,N/A,N/A,"22.284486,114.150519",0
+280,CW,toilet,"21-23 Lok Ku Road, Western",N/A,N/A,N/A,N/A,"22.285706,114.149286",0
+281,CW,toilet,"FEHD Staff Quarter at Basement, Hospital Road, Western",N/A,N/A,N/A,N/A,"22.283853,114.147006",0
+282,CW,toilet,"Sheung Wan Municipal Services Building, G/F, 345 Queenand#039;s Road Central, Western",N/A,N/A,N/A,N/A,"22.286175,114.149733",0
+283,CW,toilet,"8 In Ku Lane, Western, HK",N/A,N/A,N/A,N/A,"22.286714,114.145958",0
+284,CW,toilet,"Mui Fong Street Cooked Food Bazaar, Western",N/A,N/A,N/A,N/A,"22.287508,114.143075",0
+285,CW,toilet,"David Lane, Sai Ying Pun, Hong Kong",N/A,N/A,N/A,N/A,"22.285903,114.142106",0
+286,CW,toilet,"Opposite to No. 17 Kotewall Road, Western",N/A,N/A,N/A,N/A,"22.280536,114.138303",0
+287,CW,toilet,"Behind No.2-12 Belcherand#039;s Street, Western",N/A,N/A,N/A,N/A,"22.286269,114.132956",0
+288,CW,toilet,"Smithfield Municipal Services Building, G/F, 12K Smithfield Road, Kennedy Town",N/A,N/A,N/A,N/A,"22.281781,114.128667",0
+289,CW,toilet,"Junction of Victoria Road and Si Ning Street, Western",N/A,N/A,N/A,N/A,"22.282003,114.123078",0
+290,CW,toilet,"Junction of Pound Lane andamp; Tai Ping Shan Street, Western",N/A,N/A,N/A,N/A,"22.284964,114.147667",0
+291,CW,toilet,"Water Street Junction of Pok Fu Lam Road, Western, HK",N/A,N/A,N/A,N/A,"22.285269,114.139194",0
+292,CW,toilet,"Shek Tong Tsui Municipal Services Building, 470 Queenand#039;s Road West, Shek Tong Tsui",N/A,N/A,N/A,N/A,"22.285575,114.1361",0
+293,S,toilet,Pokfulam Road near Queen Mary Hospital,N/A,N/A,N/A,N/A,"22.269958,114.130486",0
+294,S,toilet,At side of No. 63 Pokfulam Village,N/A,N/A,N/A,N/A,"22.259197,114.138058",0
+295,S,toilet,At side of No. 44 Pokfulam Village,N/A,N/A,N/A,N/A,"22.259522,114.138231",0
+296,S,toilet,Opposite to No. 5R Pokfulam Village,N/A,N/A,N/A,N/A,"22.259964,114.137669",0
+297,S,toilet,Opposite to No. 128E Pokfulam Village,N/A,N/A,N/A,N/A,"22.261436,114.136833",0
+298,S,toilet,"No.16 Aberdeen Main Road, Aberdeen",N/A,N/A,N/A,N/A,"22.247894,114.158956",0
+299,WTS,toilet,"Junction of Shung Ling Street andamp; Hong Keung Street, San Po Kong",N/A,N/A,N/A,N/A,"22.334497,114.196503",0
+300,WTS,toilet,"No. 1 Lung Chi Path, Ngau Chi Wan",N/A,N/A,N/A,N/A,"22.336461,114.207811",0
+301,WTS,toilet,Junction of Tung Tau Tsuen Road and Junction Road,N/A,N/A,N/A,N/A,"22.332667,114.187756",0
+302,WTS,toilet,Tung Kwong Road outside Nga Tsin Wai Village,N/A,N/A,N/A,N/A,"22.3354,114.193114",0
+303,WTS,toilet,Choi Hung Road Bus Terminal (opposite to Choi Hung Estate),N/A,N/A,N/A,N/A,"22.335255,114.204616",0
+304,WTS,toilet,"G/F, Plaza Hollywood, Sheung Yuen Street",N/A,N/A,N/A,N/A,"22.340458,114.202297",0
+305,S,toilet,"Near No.12 Yip Fat Street, Wong Chuk Hang",N/A,N/A,N/A,N/A,"22.248997,114.168628",0
+306,S,toilet,Repulse Bay Road near Bus Terminus (opposite to No. 109 Repulse Bay Road),N/A,N/A,N/A,N/A,"22.238294,114.196022",0
+307,S,toilet,Repulse Bay Beach Road near Repulse Bay Car Park,N/A,N/A,N/A,N/A,"22.237817,114.196217",0
+308,TM,toilet,"Kin Fung Circuit, Tuen Mun (near Ho Tin LRT station)",N/A,N/A,N/A,N/A,"22.397828,113.972975",0
+309,S,toilet,Repulse Bay Beach Road near Life Saving Association,N/A,N/A,N/A,N/A,"22.235053,114.198767",0
+310,S,toilet,Near No.16 Repulse Bay Beach Road,N/A,N/A,N/A,N/A,"22.238339,114.194831",0
+311,S,toilet,South Bay Road near Middle Bay,N/A,N/A,N/A,N/A,"22.212417,114.198661",0
+312,S,toilet,South Bay Road near South Bay,N/A,N/A,N/A,N/A,"22.224622,114.198514",0
+313,TM,toilet,"Hung Cheung Road, Tuen Mun (at side of public car park)",N/A,N/A,N/A,N/A,"22.393108,113.969292",0
+314,S,toilet,Stanley Link Road near Stanley Main Beach,N/A,N/A,N/A,N/A,"22.220447,114.213992",0
+315,S,toilet,Stanley Tytam Village near Hong Kong Sea School,N/A,N/A,N/A,N/A,"22.218803,114.214447",0
+316,S,toilet,Stanley Pak Kan Village near Stanley Main Street,N/A,N/A,N/A,N/A,"22.200494,114.213222",0
+317,S,toilet,Shek O Village near Shek O Rocky Bay Beach Drainage Services Department Shek O Preliminary Treatment Works,N/A,N/A,N/A,N/A,"22.230683,114.253133",0
+318,S,toilet,Wu Nam Street near Aberdeen Bus Terminus,N/A,N/A,N/A,N/A,"22.247569,114.154864",0
+319,S,toilet,"Apleichau Municipal Services Building, No. 8 Hung Shing Street, Apleichau",N/A,N/A,N/A,N/A,"22.244489,114.155397",0
+320,S,toilet,"Junction of Lee Lok Street and Lee Wing Street, Apleichau",N/A,N/A,N/A,N/A,"22.237969,114.154225",0
+321,S,toilet,Shum Wan Road near Marine Police Station,N/A,N/A,N/A,N/A,"22.242947,114.164544",0
+322,S,toilet,"Stanley Municipal Services Building, Stanley Market Road",N/A,N/A,N/A,N/A,"22.219156,114.212256",0
+323,S,toilet,Stanley Waterfront,N/A,N/A,N/A,N/A,"22.217711,114.212497",0
+324,TM,toilet,"Tseng Tau Chung Tsuen, Tuen Mun",N/A,N/A,N/A,N/A,"22.398531,113.978983",0
+325,TM,toilet,"Kin Lung Street, Tuen Mun (near Shek Pai Tau Playground)",N/A,N/A,N/A,N/A,"22.397083,113.969497",0
+326,TM,toilet,"Tsing Yeung Circuit, Tuen Mun (at side of public car park)",N/A,N/A,N/A,N/A,"22.39864,113.96997",0
+327,TM,toilet,"Tuen Mun Ferry Pier, Tuen Mun",N/A,N/A,N/A,N/A,"22.372694,113.965319",0
+328,TM,toilet,Chung Uk Tsuen,N/A,N/A,N/A,N/A,"22.428881,113.991908",0
+329,TM,toilet,Tsing Chuen Wai,N/A,N/A,N/A,N/A,"22.422511,113.982942",0
+330,YT,toilet,Junction of Shanghai Street andamp; Waterloo Rd.,N/A,N/A,N/A,N/A,"22.312608,114.169314",0
+331,YT,toilet,"No. 1, Market Street",N/A,N/A,N/A,N/A,"22.309447,114.170244",0
+332,YT,toilet,"Yau Ma Tei Market, No. 20, Kansu St.",N/A,N/A,N/A,N/A,"22.308717,114.169314",0
+333,YT,toilet,"At side of Astor Plaza, junction of Gascoigne Rd. and Nathan Rd.",N/A,N/A,N/A,N/A,"22.308247,114.171828",0
+334,YT,toilet,"No. 42, Battery St.",N/A,N/A,N/A,N/A,"22.307353,114.168983",0
+335,YT,toilet,"No. 107, Parkes St.",N/A,N/A,N/A,N/A,"22.306422,114.170644",0
+336,YT,toilet,"Inside King George V Park, Jordan.",N/A,N/A,N/A,N/A,"22.305483,114.168189",0
+337,YT,toilet,"Concordia Plaza, 1 Science Museum Rd.",N/A,N/A,N/A,N/A,"22.302033,114.17835",0
+338,YT,toilet,Tsim Sha Tsui Ferry Concourse,N/A,N/A,N/A,N/A,"22.293444,114.169053",0
+339,YT,toilet,At junction of Kimberley Rd. andamp; Austin Avenue,N/A,N/A,N/A,N/A,"22.302269,114.175467",0
+340,YT,toilet,Tsim Sha Tsui East (Mody Road) Bus Terminus (next to Wing On Plaza),N/A,N/A,N/A,N/A,"22.296472,114.175825",0
+341,TM,toilet,San Hing Tsuen,N/A,N/A,N/A,N/A,"22.418822,113.980025",0
+342,MK,toilet,Sai Yee Street Garden (near Newport Cinema),N/A,N/A,N/A,N/A,"22.317114,114.171731",0
+343,MK,toilet,188 Sai Yee Street (near Mong Kok Flower Market),N/A,N/A,N/A,N/A,"22.325181,114.170661",0
+344,MK,toilet,"661B Shanghai Street, junction of Shanghai Street and Mong Kok Road (Inside Mong Kok Road Playground)",N/A,N/A,N/A,N/A,"22.320753,114.167419",0
+345,MK,toilet,"1 Sham Mong Road, Olympic Station",N/A,N/A,N/A,N/A,"22.318839,114.160656",0
+346,MK,toilet,193 Portland Street (near Langham Place Shopping Mall),N/A,N/A,N/A,N/A,"22.316989,114.168983",0
+347,MK,toilet,1024 Canton Road (near Mong Kok Langham Hotel),N/A,N/A,N/A,N/A,"22.317883,114.167567",0
+348,MK,toilet,Anchor Street Playground,N/A,N/A,N/A,N/A,"22.319869,114.164694",0
+349,MK,toilet,105 Larch Street,N/A,N/A,N/A,N/A,"22.323428,114.162178",0
+350,MK,toilet,"Side of FEHD Kowloon Depot, Luen Wan Road",N/A,N/A,N/A,N/A,"22.321117,114.172003",0
+351,SSP,toilet,19 Lai Wan Road,N/A,N/A,N/A,N/A,"22.340167,114.138511",0
+352,SSP,toilet,Mei Foo Sun Chuen Bus Terminus,N/A,N/A,N/A,N/A,"22.337267,114.139831",0
+353,SSP,toilet,At side of No.22 Chueng Shun Street,N/A,N/A,N/A,N/A,"22.335994,114.145997",0
+354,SSP,toilet,38A Tonkin Street,N/A,N/A,N/A,N/A,"22.335989,114.158828",0
+355,SSP,toilet,75 Yen Chow Street,N/A,N/A,N/A,N/A,"22.333097,114.161956",0
+356,SSP,toilet,215 Apliu Street,N/A,N/A,N/A,N/A,"22.330425,114.1615",0
+357,SSP,toilet,4 Sai Chuen Road,N/A,N/A,N/A,N/A,"22.327256,114.156378",0
+358,SSP,toilet,Junction of Tai Nan Street andamp; Boundary Street,N/A,N/A,N/A,N/A,"22.326517,114.163917",0
+359,SSP,toilet,193 Nam Cheong Street,N/A,N/A,N/A,N/A,"22.331014,114.164633",0
+360,SSP,toilet,557 Yee Kuk Street,N/A,N/A,N/A,N/A,"22.333639,114.152656",0
+361,KT,toilet,"At Chun Wah Road Bus Terminus, Ngau Tau Kok",N/A,N/A,N/A,N/A,"22.323061,114.217117",0
+362,KT,toilet,"At side of No. 39, Shung Yan Street Kwun Tong",N/A,N/A,N/A,N/A,"22.315997,114.224608",0
+363,KT,toilet,At junction of Lai Yip Street andamp; Wai Yip Street,N/A,N/A,N/A,N/A,"22.313678,114.216717",0
+364,KT,toilet,"Near Kwun Tong Ferry Pier Bus Terminus at Kei Yip Lane, Kwun Tong",N/A,N/A,N/A,N/A,"22.308531,114.221769",0
+365,KT,toilet,At Kwun Tong Road Bus Terminus,N/A,N/A,N/A,N/A,"22.311761,114.228128",0
+366,KT,toilet,At Lei Yue Mun Path Lei Yue Mun,N/A,N/A,N/A,N/A,"22.292667,114.239233",0
+367,KT,toilet,At side of No.90 Cha Kwo Ling Main Street,N/A,N/A,N/A,N/A,"22.300725,114.228319",0
+368,KT,toilet,At No.1 Ting Fu Street Ngau Tau Kok,N/A,N/A,N/A,N/A,"22.317597,114.216483",0
+369,KT,toilet,At entrance of Ma Wan Village Lei Yue Mun,N/A,N/A,N/A,N/A,"22.287925,114.237483",0
+370,TM,toilet,Kwong Shan Tsuen,N/A,N/A,N/A,N/A,"22.410292,113.967828",0
+371,TM,toilet,"San Hing Tsuen, Chung Shan",N/A,N/A,N/A,N/A,"22.420617,113.976253",0
+372,TM,toilet,Tin Tei Yan Road,N/A,N/A,N/A,N/A,"22.42942,113.99384",0
+373,TM,toilet,Siu Lam San Tsuen,N/A,N/A,N/A,N/A,"22.366728,114.004769",0
+374,TM,toilet,"Tsz Tin Tsuen, at side of RCP",N/A,N/A,N/A,N/A,"22.415908,113.975103",0
+375,KwT,toilet,Kwai Shun Street near Kwai Shun Cooked food Market,N/A,N/A,N/A,N/A,"22.353978,114.124419",0
+376,KwT,toilet,Near no.28 Cheung Tat Road,N/A,N/A,N/A,N/A,"22.349775,114.109772",0
+377,KwT,toilet,Cheung Ching Bus Terminus,N/A,N/A,N/A,N/A,"22.348336,114.106519",0
+378,KwT,toilet,Near Cheung Fai Road Promenade,N/A,N/A,N/A,N/A,"22.350814,114.110819",0
+379,KwT,toilet,Tsing Yi New Ferry Terminus,N/A,N/A,N/A,N/A,"22.354028,114.108944",0
+380,KwT,toilet,Tam Kon Shan Road near lamp post no. FB0659,N/A,N/A,N/A,N/A,"22.361075,114.096214",0
+381,KwT,toilet,Next to No. 89 Tam Kon Shan Road,N/A,N/A,N/A,N/A,"22.360972,114.091019",0
+382,KwT,toilet,Tai Yuen Street near Kwok Shui Road,N/A,N/A,N/A,N/A,"22.370589,114.136133",0
+383,KwT,toilet,Tai Lin Pai Road near Kung Yip Street,N/A,N/A,N/A,N/A,"22.362533,114.133611",0
+384,KwT,toilet,San Kwai Street near Training Centre Complex,N/A,N/A,N/A,N/A,"22.355797,114.132011",0
+385,KwT,toilet,Ta Chuen Ping Street near Carpark,N/A,N/A,N/A,N/A,"22.366561,114.135542",0
+386,KwT,toilet,Near Kwai Hing Government Building,N/A,N/A,N/A,N/A,"22.363472,114.131639",0
+387,KwT,toilet,New Kwai Fong Garden,N/A,N/A,N/A,N/A,"22.356717,114.128136",0
+388,KwT,toilet,"Lantau Link View Point carpark, North West Tsing Yi Interchange, Tsing Yi",N/A,N/A,N/A,N/A,"22.358467,114.082078",0
+389,KwT,toilet,"Cheung Yuen Road, Kwai Chung",N/A,N/A,N/A,N/A,"22.346911,114.142372",0
+390,KwT,toilet,"Sheung Yat Tsuen, Kwai Chung",N/A,N/A,N/A,N/A,"22.376136,114.141939",0
+391,KwT,toilet,"Liu To Village, Tsing Yi",N/A,N/A,N/A,N/A,"22.3519,114.0978",0
+392,TM,toilet,"Lee Uk Tsuen, So Kwun Wat",N/A,N/A,N/A,N/A,"22.376644,114.006483",0
+393,TW,toilet,"Near no.34 Yi Pei Chun village, Tsuen Wan",N/A,N/A,N/A,N/A,"22.377683,114.124625",0
+394,TW,toilet,"G/F., Tsuen Wan Station MTR Multi-storey Carpark Building, Sai Lau Kok Road, Tsuen Wan",N/A,N/A,N/A,N/A,"22.367319,114.118753",0
+395,TW,toilet,"Lo Wai, Tsuen Wan",N/A,N/A,N/A,N/A,"22.379553,114.125244",0
+396,TW,toilet,"At side of no. 98 Wang Lung Street, Tsuen Wan",N/A,N/A,N/A,N/A,"22.365336,114.118775",0
+397,TM,toilet,Kei Lun Wai,N/A,N/A,N/A,N/A,"22.411433,113.976286",0
+398,TW,toilet,"At Side of Heung Che Street Market, Tso Kung Square, Tsuen Wan",N/A,N/A,N/A,N/A,"22.373272,114.111664",0
+399,TW,toilet,"Opposite to No. 67-95, Tsuen Wan Market Street, Tsuen Wan",N/A,N/A,N/A,N/A,"22.370908,114.118383",0
